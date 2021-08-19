@@ -12,21 +12,21 @@ The protein interactions are then visualized using Cytoscape.js library. The app
 
 <br><br>
 **Protein Interaction data file** <br><br>
-<img src="./images/data_upload.png" alt="homepage" width='800' height='330' align='center'>
+<img src="./images/data_upload.png" alt="homepage" width='800' height='330' />
 
 
 <br><br>
 **OpenPIP webapp**
 <br><br>
-<img src="./images/homepage.png" alt="homepage" width='1000' height='480'>
+<img src="./images/homepage.png" alt="homepage" width='1000' height='480'/>
 
 <br><br><br>
 **Protein_Interaction Visualization using**
-<img src="./images/cytoscapejs.png" alt="cytoscapeJS" width='300' height='50'>
+<img src="./images/cytoscapejs.png" alt="cytoscapeJS" width='300' height='50' />
 <br><br>
-<img src="./main/images/int_ex1.png" alt="example1" width='400' height='250'>
-<img src="./images/int_ex2.png" alt="example2" width='280' height='220'>
-<img src="./images/int_ex3.png" alt="example3" width='260' height='220'>
+<img src="./images/int_ex1.png" alt="example1" width='400' height='250' />
+<img src="./images/int_ex2.png" alt="example2" width='280' height='220' />
+<img src="./images/int_ex3.png" alt="example3" width='260' height='220' />
  
 ---
 **Work Summary and Pull requests** <br><br>
