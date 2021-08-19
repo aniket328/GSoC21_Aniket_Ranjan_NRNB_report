@@ -74,11 +74,13 @@ The protein interactions are then visualized using Cytoscape.js library. The app
      - Single command to start the application: `docker-compose up`.
       
 - [x] General bug fixes, code cleanup and refactoring. 
-- [ ] Documentation, readme and installation guide.
-- [ ] Integration of interaction and protein annotation during upload.
+- [x] Documentation, readme and installation guide.
+- [x] Integration of interaction and protein annotation during upload.
 
  ---
- <br>
+ 
+ <br><br><br>
+ 
  ### Future Scope
  
 - Optimization of data upload for faster insertion in database. Currently it takes 1.5 seconds for insertion of each protein.
