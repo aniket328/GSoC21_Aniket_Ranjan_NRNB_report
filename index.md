@@ -2,10 +2,11 @@
 <img src="./images/tech_stack_canvas.png" alt="tech_stack_canvas" width='800' height='330' />
 <br><br><br>
 
-## GSoC '21 Report | Aniket Ranjan | @NRNB | Enhancement of OpenSource_Protein_Interaction_Platform
+## GSoC '21 | @NRNB | Aniket Ranjan | Report |
+> ```Enhancement of Open_Source_Protein_Interaction_Platform```
 
 ### Introduction 
-The Google summer of code program has been a great and fun learning experience to me over the past months. The project was aimed to enhance the project of openPIP (OpenSource_Protein_Interaction_Platform) to make it production ready.
+The Google summer of code program has been a great and fun learning experience to me over the past months. The project was aimed to enhance the project of openPIP (Open_Source_Protein_Interaction_Platform) to make it production ready.
 
 ---
 
@@ -97,17 +98,23 @@ The protein interactions are then visualized using Cytoscape.js library. The app
 
 * [OpenPIP live portal Baderlabs](http://openpip.baderlab.org/)
 * [OpenPIP github repo](https://github.com/BaderLab/openPIP)
+* [OpenPIP documentation](http://baderlab.org/Software/openPIP#openPIP_Features)
+
+* [GSoC OpenPIP issue](https://github.com/nrnb/GoogleSummerOfCode/issues/163)
+* [GSoC @NRNB](https://nrnb.org/gsoc.html)
+* [GSoC @NRNB GitHub](https://github.com/nrnb/GoogleSummerOfCode)
+* [NRNB](https://nrnb.org/)
+
 * [GitHub Aniket Ranjan](https://github.com/aniket328)
 * [GSoC Project Link](https://summerofcode.withgoogle.com/projects/#4645790724653056)
-* [NRNB](https://nrnb.org/)
+
 
 ---
 
 ### Contact
 
-* Email: ranjan.aniket20013@gmail.com
-* [GSoC Project Link](https://summerofcode.withgoogle.com/projects/#4645790724653056)
-
+* Email: 
+**ranjan.aniket20013@gmail.com**
 <p>
 <a href="https://www.linkedin.com/in/aniket328" rel="nofollow noreferrer">
   <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
