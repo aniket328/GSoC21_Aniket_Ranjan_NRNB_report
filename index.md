@@ -31,7 +31,7 @@ The protein interactions are then visualized using Cytoscape.js library. The app
 ---
 **Work Summary and Pull requests** <br><br>
 
- **https://github.com/BaderLab/openPIP/pull/76**
+ **<a href="https://github.com/BaderLab/openPIP/pull/76">https://github.com/BaderLab/openPIP/pull/76</a>**
  <br><br>
  <u> The following features are integrated with this pull request: </u>
 
