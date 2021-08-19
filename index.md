@@ -105,10 +105,17 @@ The protein interactions are then visualized using Cytoscape.js library. The app
 
 ### Contact
 
-* [Email](ranjan.aniket20013@gmail.com)
-* [GitHub](https://github.com/aniket328)
-* [Linkedin](https://www.linkedin.com/in/aniket328)
+* Email: ranjan.aniket20013@gmail.com
 * [GSoC Project Link](https://summerofcode.withgoogle.com/projects/#4645790724653056)
+
+<p>
+<a href="https://www.linkedin.com/in/aniket328" rel="nofollow noreferrer">
+  <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+</a> &nbsp; 
+<a href="https://github.com/aniket328" rel="nofollow noreferrer">
+  <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+</a>
+</p>
 
 
 
