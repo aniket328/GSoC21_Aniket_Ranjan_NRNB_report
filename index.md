@@ -29,6 +29,17 @@ The protein interactions are then visualized using Cytoscape.js library. The app
  
 ---
 
+
+### Future Scope
+ 
+- Optimization of data upload for faster insertion in database. Currently it takes 1.5 seconds for insertion of each protein.
+- Integration of Interaction category, annotations during data upload.
+- Optimizing upload for ensemble and entrez id.
+- Integration of Datasets handle and download.
+- Integration of complex, domain, isoform if when needed.
+- User optimization and registration. Mapping user with proteins uploaded. 
+- Upgrading of symfony framework to laset release, since new features can't be installed in unmaintained old version.
+
 <br><br>
 ### Work Summary and Pull requests
 
@@ -79,15 +90,6 @@ The protein interactions are then visualized using Cytoscape.js library. The app
 
  <br><br><br>
  
-### Future Scope
- 
-- Optimization of data upload for faster insertion in database. Currently it takes 1.5 seconds for insertion of each protein.
-- Integration of Interaction category, annotations during data upload.
-- Optimizing upload for ensemble and entrez id.
-- Integration of Datasets handle and download.
-- Integration of complex, domain, isoform if when needed.
-- User optimization and registration. Mapping user with proteins uploaded. 
-- Upgrading of symfony framework to laset release, since new features can't be installed in unmaintained old version.
 
 ---
 
