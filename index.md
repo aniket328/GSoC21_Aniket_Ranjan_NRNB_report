@@ -32,7 +32,7 @@ The protein interactions are then visualized using Cytoscape.js library. The app
 <br><br>
 ### Work Summary and Pull requests
 
- **<a href="https://github.com/BaderLab/openPIP/pull/76">https://github.com/BaderLab/openPIP/pull/76</a>**
+ *<a href="https://github.com/BaderLab/openPIP/pull/76">https://github.com/BaderLab/openPIP/pull/76</a>*
  <br><br>
  <u> The following features are integrated with this pull request: </u>
 
@@ -44,7 +44,6 @@ The protein interactions are then visualized using Cytoscape.js library. The app
 - [x] Mission and Method section in the 'home page' made dynamic to be changed via admin settings.
 - [x] Home page heading changed to the dynamic short title.
 - [x] File section: recreated the complete section with the following features.
-
      - server-side creation and deletion of folder.
      - uploading of any file format in any folder of choice.
      - download, delete and copy path button for each file inside the folder.
@@ -79,7 +78,7 @@ The protein interactions are then visualized using Cytoscape.js library. The app
 - [ ] Integration of interaction and protein annotation during upload.
 
  ---
- 
+ <br>
  ### Future Scope
  
 - Optimization of data upload for faster insertion in database. Currently it takes 1.5 seconds for insertion of each protein.
