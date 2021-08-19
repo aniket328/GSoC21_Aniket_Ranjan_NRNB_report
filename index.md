@@ -77,8 +77,6 @@ The protein interactions are then visualized using Cytoscape.js library. The app
 - [x] Documentation, readme and installation guide.
 - [x] Integration of interaction and protein annotation during upload.
 
- ---
- 
  <br><br><br>
  
  ### Future Scope
