@@ -12,7 +12,7 @@ The protein interactions are then visualized using Cytoscape.js library. The app
 
 <br><br>
 **Protein Interacion data file** <br><br>
-<img src="https://github.com/aniket328/GSoC21_Aniket_Ranjan_NRNB_report/blob/main/images/data_upload.png" alt="homepage" width='800' height='330' align='center'>
+<img src="./images/data_upload.png" alt="homepage" width='800' height='330' align='center'>
 
 
 <br><br>
