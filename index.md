@@ -18,7 +18,7 @@ The protein interactions are then visualized using Cytoscape.js library. The app
 <br><br>
 **OpenPIP webapp**
 <br><br>
-<img src="https://github.com/aniket328/GSoC21_Aniket_Ranjan_NRNB_report/blob/main/images/homepage.png" alt="homepage" width='1000' height='480' align='center'>
+<a href="url"><img src="https://github.com/aniket328/GSoC21_Aniket_Ranjan_NRNB_report/blob/main/images/homepage.png" alt="homepage" width='1000' height='480' align='center'></a>
 
 <br><br><br>
 **Protein_Interaction Visualization using**
