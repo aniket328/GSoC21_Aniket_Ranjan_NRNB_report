@@ -79,7 +79,7 @@ The protein interactions are then visualized using Cytoscape.js library. The app
 
  <br><br><br>
  
- ### Future Scope
+### Future Scope
  
 - Optimization of data upload for faster insertion in database. Currently it takes 1.5 seconds for insertion of each protein.
 - Integration of Interaction category, annotations during data upload.
