@@ -11,7 +11,7 @@ The webapplication gets the uniprot/ensemble ID from the .psi file and fetches t
 The protein interactions are then visualized using Cytoscape.js library. The application supports search filters which can be used to enrich and filter desired results which can be saved for further analysis.
 
 <br><br>
-**Protein Interacion data file** <br><br>
+**Protein Interaction data file** <br><br>
 <img src="./images/data_upload.png" alt="homepage" width='800' height='330' align='center'>
 
 
