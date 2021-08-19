@@ -2,14 +2,15 @@
 <img src="./images/tech_stack_canvas.png" alt="tech_stack_canvas" width='800' height='330' />
 <br><br><br>
 
-## GSoC '21 Report | Aniket Ranjan | @NRNB | Enhancement of OpenSource_Protein_Interaction_Platform
+# GSoC '21 Report | Aniket Ranjan | @NRNB | Enhancement of OpenSource_Protein_Interaction_Platform
 
-
-**Introduction** <br><br>
+<br><br>
+## Introduction 
 The Google summer of code program has been a great and fun learning experience to me over the past months. The project was aimed to enhance the project of openPIP (OpenSource_Protein_Interaction_Platform) to make it production ready.
 
 ---
-**What is OpenPIP** <br><br>
+<br><br>
+## What is OpenPIP
 OpenPIP (Open Source Protein Interaction Platform) is a web application which can be used to visualize, modify, analyze and download thousands of complex protein-protein interactions for analysis, prediction and further research work.
 The protein interaction data is fed into the platfrom using .psi file format which contains information about the protein interactions and further annotations.
 The webapplication gets the uniprot/ensemble ID from the .psi file and fetches the protein data like protein_name, gene_name, protein_sequence, description, external_links and saves them to the database.
