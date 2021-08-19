@@ -4,35 +4,31 @@
 
 # GSoC '21 Report | Aniket Ranjan | @NRNB | Enhancement of OpenSource_Protein_Interaction_Platform
 
-<br><br>
 ## Introduction 
 The Google summer of code program has been a great and fun learning experience to me over the past months. The project was aimed to enhance the project of openPIP (OpenSource_Protein_Interaction_Platform) to make it production ready.
 
 ---
-<br><br>
+
 ## What is OpenPIP
 OpenPIP (Open Source Protein Interaction Platform) is a web application which can be used to visualize, modify, analyze and download thousands of complex protein-protein interactions for analysis, prediction and further research work.
 The protein interaction data is fed into the platfrom using .psi file format which contains information about the protein interactions and further annotations.
 The webapplication gets the uniprot/ensemble ID from the .psi file and fetches the protein data like protein_name, gene_name, protein_sequence, description, external_links and saves them to the database.
 The protein interactions are then visualized using Cytoscape.js library. The application supports search filters which can be used to enrich and filter desired results which can be saved for further analysis.
 
-<br><br>
-**Protein Interaction data file** <br><br>
+
+### Protein Interaction data file
 <img src="./images/data_upload.png" alt="data_upload_file" width='800' height='330' />
 
 
-<br><br>
-**OpenPIP webapp**
-<br><br>
+### OpenPIP webapp
 <img src="./images/homepage.png" alt="homepage" width='800' height='390'/>
 
-<br><br><br>
-**Protein_Interaction Visualization using CytoscapeJS**
-<br><br>
+### Protein_Interaction Visualization using CytoscapeJS
 <img src="./images/canvas_interaction.png" alt="canvas_interaction" width='800' height='450' />
  
 ---
-**Work Summary and Pull requests** <br><br>
+
+## Work Summary and Pull requests
 
  **<a href="https://github.com/BaderLab/openPIP/pull/76">https://github.com/BaderLab/openPIP/pull/76</a>**
  <br><br>
@@ -82,7 +78,7 @@ The protein interactions are then visualized using Cytoscape.js library. The app
 
  ---
  
- **Future Scope**
+ ## Future Scope
 - Optimization of data upload for faster insertion in database. Currently it takes 1.5 seconds for insertion of each protein.
 - Integration of Interaction category, annotations during data upload.
 - Optimizing upload for ensemble and entrez id.
@@ -93,7 +89,7 @@ The protein interactions are then visualized using Cytoscape.js library. The app
 
 ---
 
-**Important Links**
+## Important Links
 * [OpenPIP live portal Baderlabs](http://openpip.baderlab.org/)
 * [OpenPIP github repo](https://github.com/BaderLab/openPIP)
 * [GitHub Aniket Ranjan](https://github.com/aniket328)
@@ -102,7 +98,7 @@ The protein interactions are then visualized using Cytoscape.js library. The app
 
 ---
 
-**Contact**
+## Contact
 * [Email](ranjan.aniket20013@gmail.com)
 * [GitHub](https://github.com/aniket328)
 * [Linkedin](https://www.linkedin.com/in/aniket328)
