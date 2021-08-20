@@ -3,8 +3,11 @@
 
 
 
-<img src="./images/tech_stack_canvas.png" alt="tech_stack_canvas" width='800' height='330' />
+
+<img src="./images/head_img.png" alt="tech_stack_canvas" width='760' height='437' />
 <br><br><br>
+
+> 20th August'2021
 
 ## GSoC '21 Report | Aniket Ranjan | @NRNB | Enhancement of Open_Source_Protein_Interaction_Platform 
 
@@ -21,15 +24,15 @@ The protein interactions are then visualized using Cytoscape.js library. The app
 
 
 #### Protein Interaction data file
-<img src="./images/data_upload.png" alt="data_upload_file" width='800' height='330' />
+<img src="./images/data_upload.png" alt="data_upload_file" width='760' height='309' />
 
 <br><br>
 #### OpenPIP webapp
-<img src="./images/homepage.png" alt="homepage" width='800' height='390'/>
+<img src="./images/homepage.png" alt="homepage" width='760' height='368'/>
 
 <br><br>
 #### Protein_Interaction Visualization using CytoscapeJS
-<img src="./images/canvas_interaction.png" alt="canvas_interaction" width='800' height='450' />
+<img src="./images/canvas_interaction.png" alt="canvas_interaction" width='760' height='438' />
  
 ---
 
@@ -129,3 +132,7 @@ The protein interactions are then visualized using Cytoscape.js library. The app
   <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
 </a>
 </p>
+
+
+
+
