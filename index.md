@@ -1,5 +1,5 @@
 
-<img src="./images/head_img.png" alt="tech_stack_canvas" width='700' height='403' />
+<img src="./images/head_img.png" alt="tech_stack_canvas" width='760' height='437' />
 <br><br><br>
 
 > 20th August'2021
