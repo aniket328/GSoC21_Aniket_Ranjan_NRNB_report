@@ -4,6 +4,7 @@
 
 
 
+
 <img src="./images/head_img.png" alt="tech_stack_canvas" width='760' height='437' />
 <br><br><br>
 
@@ -117,6 +118,28 @@ The protein interactions are then visualized using Cytoscape.js library. The app
 - [GitHub Aniket Ranjan](https://github.com/aniket328)
 - [GSoC Project Link](https://summerofcode.withgoogle.com/projects/#4645790724653056)
 
+
+---
+
+### Special Thanks
+
+I would like to wholeheartedly thank my mentors who were my constant guide and ofcourse without whome this wasn't possible.
+Thanks for your valuable feedbacks, guidance and project planning. You were amazing!
+
+#### 1. Gary Bader 
+Professor of Molecular Genetics and Computer Science, The Donnelly Centre, University of Toronto
+<br><a href="https://ccbr.utoronto.ca/faculty/gary-bader"> Profile </a>&emsp;
+<a href="https://www.linkedin.com/in/gary-bader-a08673/" rel="nofollow noreferrer">
+  <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+</a> &nbsp;
+
+
+#### 2. Mohamed Helmy
+Senior Specialist, Bioinformatics Institute (BII) at A*STAR
+<br><a href="http://individual.utoronto.ca/mohamedhelmy/"> Profile </a>&emsp;
+<a href="https://www.linkedin.com/in/mohamed-helmy-phd-01611839/" rel="nofollow noreferrer">
+  <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+</a> &nbsp; 
 
 ---
 
